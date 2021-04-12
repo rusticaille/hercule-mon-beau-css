@@ -1,4 +1,6 @@
 # hercule-mon-beau-css
+(janvier 2021)
+
 Un autre beau CSS, atelier proposé par mon école OClock
 
 Reset du CSS
